@@ -16,7 +16,7 @@ const BlogDetails = ({ blog, notFound }) => {
               <div className="relative h-64 overflow-hidden sm:h-80 lg:h-full">
                 <Image
                   alt="Radar Image"
-                  src="/images/San_fran.png"
+                  src="/wolverineradar/images/San_fran.png"
                   className="absolute inset-0 h-full w-full object-cover scale-100"
                   width={410}
                   height={410}
